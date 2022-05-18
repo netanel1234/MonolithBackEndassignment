@@ -10,6 +10,6 @@ Software Installation:
 How to run it:
  1. Installing all the required software
  2. Import the project.
- 3. Configue the project with the web container
+ 3. Configue the IDE with Apache tomcat
  4. 'run on servr' home.jsp
  5. Have fun!
