@@ -2,7 +2,7 @@
 
 
 Software Installation:
-  1. JDK SE (I used JDK 8)
+  1. JDK JavaSE-16
   2. Eclipse IDE for Java EE Developers
   3. Apache Tomcat (version 9) as web container
 
